@@ -1969,7 +1969,7 @@ MY CODE STARTS HERE
 	}
 
 	.circle-photo {
-		background-image: url("../../../wp-content/uploads/2016/06/andy-and-dave-biog-square-compressed.jpg");
+		background-image: url("../../../wp-content/uploads/2017/04/andy-and-dave-square-crop.jpg");
 		background-size: cover;
 		height: 100%;
 		background-repeat: no-repeat;
@@ -2115,7 +2115,7 @@ To center form in page see https://wordpress.org/support/topic/center-contact-fo
 }
 
 .biog-photo-andy {
-	background-image: url("../../../wp-content/uploads/2016/06/andy-biog-cropped-compressed.jpg");
+	background-image: url("../../../wp-content/uploads/2017/04/andy-square-crop.jpg");
 }
 
 .biog-photo-dave {
